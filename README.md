@@ -34,7 +34,6 @@
 
 ## 🖼️ Certificate Gallery
 
-> *Click on any certificate to view it in full resolution.*
 
 | | |
 | :---: | :---: |
